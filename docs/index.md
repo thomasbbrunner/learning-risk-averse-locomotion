@@ -6,4 +6,6 @@ Recent advances in deep learning have led to impressive progress in the field of
 
 ## Video
 
-Coming soon!
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L-SrjcvsEdc?si=HcojHcT1bM2PZtns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
